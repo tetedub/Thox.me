@@ -81,7 +81,7 @@ const experiences: Experience[] = [
       - Keycloak (OIDC/JWT, RBAC)
       - Vue.js for RETEX rendering`,
     link: "https://event.eventozor.com/FOXYHACK/",
-    projectLink: "https://github.com/DIGIX666/trace-ops",
+    projectLink: "https://github.com/tetedub/trace-ops",
     recognition: "No prize, but a special jury commendation for the most audacious project",
     type: "hackathon"
   },   
@@ -94,7 +94,7 @@ const experiences: Experience[] = [
     It connects to any x402-protected API via middleware hooks and emits structured events for dashboards and metrics. 
     The first x402 observability tool dedicated to Aptos developers.`,
     link: "https://luma.com/sbn4j5lp?tk=KHMPAC",
-    projectLink: "https://github.com/DIGIX666/x402-inspector",
+    projectLink: "https://github.com/tetedub/x402-inspector",
     type: "hackathon"
   },     
   {
@@ -104,7 +104,7 @@ const experiences: Experience[] = [
     description: `Hackathon blockchain with AI organized by CapX.
     Our team developed Hivee, a decentralized credit protocol that enables autonomous AI agents to lend and borrow without human intervention. Built on CapX blockchain with ERC-8004 and x402 payment.`,
     link: "https://hackathon.capx.ai/",
-    projectLink: "https://github.com/DIGIX666/Hivee",
+    projectLink: "https://github.com/tetedub/Hivee",
     type: "hackathon"
   },     
   {
@@ -169,7 +169,7 @@ const experiences: Experience[] = [
     period: "11-14 July 2025",
     description: "The proposed concept is a decentralized (dApp) sports engagement application combining free sports betting, fan tokens (“fan tokens”), NFT and customizable 3D avatars. The aim is to innovate by offering new uses for fan tokens that go far beyond traditional governance and rewards, to bring tangible value and authentic interaction to fans and clubs. This all-in-one platform allows fans to betting for free on real events, earn points convertible into official tokens, participate in polls/DAOs, collect exclusive NFTs, while personalizing a virtual avatar in the image of their sporting passion.",
     link: "https://www.chiliz.com/what-is-a-blockchain-hackathon/",
-    projectLink: "https://github.com/DIGIX666/Kolise",
+    projectLink: "https://github.com/tetedub/Kolise",
     type: "hackathon"
   }, 
   {
@@ -179,7 +179,7 @@ const experiences: Experience[] = [
     description: `CleanCash is built on the so|cash protocol, which allows financial institutions to perform instant transactions on the blockchain. The project focuses on issuing invoices as NFTs, enabling tracking and payment validation via the blockchain, and managing interbank payments between client and provider accounts.
       • Second place - CACIB / so|cash use case`,
     link: "https://www.sia-partners.com/fr/publications/publications-de-nos-experts/hackathon-blockchain-vierzon",
-    projectLink: "https://github.com/DIGIX666/Invoice-CACIB-web3",
+    projectLink: "https://github.com/tetedub/Invoice-CACIB-web3",
     recognition: "2nd place · CACIB / so|cash use case",
     type: "hackathon"
   },
