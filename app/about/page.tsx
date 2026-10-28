@@ -116,8 +116,8 @@ const experiences: Experience[] = [
       . Won the qualifying round
       . Finished 4th in the second phase
       . Qualified for the semifinals`,
-    link: "https://wchl25.worldcomputer.com/",
-    projectLink: "https://www.qubex-protocol.io/",
+    link: "https://dorahacks.io/hackathon/wchl25-qualification-round/detail",
+    projectLink: "https://github.com/Qubex-Protocol",
     recognition: "1st place · Portugal qualifying round",
     type: "hackathon"
   },   
