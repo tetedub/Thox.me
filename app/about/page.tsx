@@ -190,7 +190,15 @@ const experiences: Experience[] = [
     description: "Certification obtained with honors from the jury (2 out of 40). The school, based on project-based peer-to-peer learning, allowed me to learn through real-world cases and taught me how to adapt when I need to use a new programming language for a project.",
     link: "https://zone01rouennormandie.org/",
     type: "education"
-  }
+  },
+  {
+    title: "Lycée Paul Guérin",
+    organization: "BTS - Technico-commercial",
+    period: "2019 - 2021",
+    description: "In this program, I was able to learn sales techniques, improve my public speaking skills, understand and conduct market research, and learn how to analyze a customer and understand their needs in order to find solutions that suit them.",
+    link: "https://www.linkedin.com/in/th%C3%A9o-dubois-662407194/overlay/Education/615880381/treasury/?profileId=ACoAAC2fYtIB89y3KfdUi17EbM96drR2odnXhqg",
+    type: "education"
+  }  
 ]
 
 function ExperienceCard({ experience }: { experience: Experience }) {
