@@ -188,7 +188,7 @@ const experiences: Experience[] = [
     organization: "RNCP 6 - application designer and developer",
     period: "2022 - 2025",
     description: "Certification obtained with honors from the jury (2 out of 40). The school, based on project-based peer-to-peer learning, allowed me to learn through real-world cases and taught me how to adapt when I need to use a new programming language for a project.",
-    link: "https://zone01rouennormandie.org/",
+    link: "https://www.francecompetences.fr/recherche/rncp/31678/",
     type: "education"
   },
   {
